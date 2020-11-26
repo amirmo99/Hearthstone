@@ -1,0 +1,287 @@
+__DELETE ACCOUNT__ | @ 2020-07-09T22:36:17.040320 | Message: No Message
+Username: amir
+Created @ 2020-07-09T22:32:23.241884
+Password:  nzr
+
+
+__SIGN IN__ | @ 2020-07-09T22:32:23.573345 | Message: No Message
+__ROOM CHANGE__ | @ 2020-07-09T22:32:23.927924 | Message: Home
+__BUTTON CLICK__ | @ 2020-07-09T22:32:26.579522 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-07-09T22:32:26.920282 | Message: Collections
+__BUTTON CLICK__ | @ 2020-07-09T22:32:28.635780 | Message: New
+__REPORT__ | @ 2020-07-09T22:32:31.206024 | Message: Deck Name: New Deck0, hero : Mage
+__BUTTON CLICK__ | @ 2020-07-09T22:32:33.419997 | Message: Set Active
+__REPORT__ | @ 2020-07-09T22:32:33.420398 | Message: Deck Activated -> Deck name : New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:34.863949 | Message: Select
+__BUTTON CLICK__ | @ 2020-07-09T22:32:34.864392 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:35.511864 | Message: Add to deck button -> Ironfur Grizzly
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:35.512020 | Message: Card Ironfur Grizzly added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:35.663994 | Message: Add to deck button -> Ironfur Grizzly
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:35.664292 | Message: Card Ironfur Grizzly added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:36.128041 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:36.128459 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:36.287552 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:36.287721 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:37.556108 | Message: Add to deck button -> Pyroblast
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:37.556589 | Message: Card Pyroblast added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:37.764052 | Message: Add to deck button -> Pyroblast
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:37.764375 | Message: Card Pyroblast added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:38.564047 | Message: Back
+__BUTTON CLICK__ | @ 2020-07-09T22:32:39.988092 | Message: Select
+__BUTTON CLICK__ | @ 2020-07-09T22:32:39.988346 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:40.984611 | Message: Add to deck button -> Strength in Numbers
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:40.984722 | Message: Card Strength in Numbers added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:41.112144 | Message: Add to deck button -> Strength in Numbers
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:41.112445 | Message: Card Strength in Numbers added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:41.655627 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:41.655789 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:41.816140 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:41.816450 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:44.668121 | Message: Add to deck button -> Polymorph
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:44.668444 | Message: Card Polymorph added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:44.860201 | Message: Add to deck button -> Polymorph
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:44.860385 | Message: Card Polymorph added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:45.836248 | Message: Add to deck button -> Blast Wave
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:45.836580 | Message: Card Blast Wave added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:45.980083 | Message: Add to deck button -> Blast Wave
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:32:45.980348 | Message: Card Blast Wave added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T22:32:46.704205 | Message: Back
+__BUTTON CLICK__ | @ 2020-07-09T22:32:47.785098 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-07-09T22:32:47.843020 | Message: home
+__BUTTON CLICK__ | @ 2020-07-09T22:32:49.691255 | Message: button -> Store
+__ROOM CHANGE__ | @ 2020-07-09T22:32:49.781691 | Message: Store
+__BUTTON CLICK__ | @ 2020-07-09T22:32:51.404107 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-07-09T22:32:51.457916 | Message: home
+__BUTTON CLICK__ | @ 2020-07-09T22:32:56.170335 | Message: button -> Status
+__ROOM CHANGE__ | @ 2020-07-09T22:32:56.236081 | Message: Status
+__BUTTON CLICK__ | @ 2020-07-09T22:33:02.511922 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-07-09T22:33:02.565946 | Message: home
+__BUTTON CLICK__ | @ 2020-07-09T22:33:08.248308 | Message: button -> Play With CPU
+__SUCCESSFUL ACTION__ | @ 2020-07-09T22:33:08.248536 | Message: Play Access Granted
+__ROOM CHANGE__ | @ 2020-07-09T22:33:08.321306 | Message: Play
+__GAME REPORT__ | @ 2020-07-09T22:33:08.347124 | Message: Game Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:10.303422 | Message: Activated Passive -> Warriors
+__EFFECTS VISITED__ | @ 2020-07-09T22:33:10.305723 | Message: Effect: logic.GameEffects.AddCost@feda882, on Models: [models.cards.Spell@18d28400, models.cards.Spell@5ef22d84, models.cards.Spell@568bf88, models.cards.Spell@6723be1f, models.cards.Spell@6b5dc47f, models.cards.Spell@240c4a9d, models.cards.Spell@6458256b, models.cards.Spell@1ef1acb9]
+__EFFECTS VISITED__ | @ 2020-07-09T22:33:10.305944 | Message: Effect: logic.GameEffects.AddCost@1b8afd24, on Models: [models.cards.Spell@5d94146a, models.cards.Spell@78c201ce, models.cards.Spell@6b45ee0b, models.cards.Spell@27ea4d9a, models.cards.Spell@5aa03a49, models.cards.Spell@32848ca2]
+__GAME REPORT__ | @ 2020-07-09T22:33:10.307086 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-07-09T22:33:13.371016 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-07-09T22:33:13.371508 | Message: Draw Card -> Blast Wave
+__GAME REPORT__ | @ 2020-07-09T22:33:13.371927 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-07-09T22:33:13.372324 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-07-09T22:33:13.372644 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-07-09T22:33:13.373105 | Message: Draw Card -> Polymorph
+__GAME REPORT__ | @ 2020-07-09T22:33:13.374060 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:15.920759 | Message: Draw Card -> Fireball
+__GAME REPORT__ | @ 2020-07-09T22:33:15.921118 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:15.936106 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:33:16.925265 | Message: Input: P2Hand, Index: 1
+__CARD PLAYED__ | @ 2020-07-09T22:33:16.927638 | Message: Light's Justice
+__GAME REPORT__ | @ 2020-07-09T22:33:17.924272 | Message: Draw Card -> Fireball
+__GAME REPORT__ | @ 2020-07-09T22:33:17.924467 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:17.954403 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:33:21.623306 | Message: Clicked On Point: java.awt.Point[x=566,y=14], P1Hand
+__REPORT__ | @ 2020-07-09T22:33:21.623618 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:33:28.958642 | Message: Selected -> models.cards.Spell@568bf88
+__REPORT__ | @ 2020-07-09T22:33:28.959143 | Message: Input: P1Hand, Index: 3
+__REPORT__ | @ 2020-07-09T22:33:30.240266 | Message: Clicked On Point: java.awt.Point[x=102,y=67], P2Hero
+__REPORT__ | @ 2020-07-09T22:33:30.240507 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:33:30.240749 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:33:30.240826 | Message: Effect: logic.GameEffects.ChangeHpAttack@1fb4c9fc, on Models: [models.heroes.Mage@1238a44a]
+__CARD PLAYED__ | @ 2020-07-09T22:33:30.240905 | Message: Fireball
+__GAME REPORT__ | @ 2020-07-09T22:33:32.317088 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-07-09T22:33:32.317515 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:32.319742 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:33:33.318305 | Message: Input: P2Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:33:34.318424 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:33:34.318591 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:33:34.318702 | Message: Effect: logic.GameEffects.ChangeHpAttack@75ad59f2, on Models: [models.heroes.Mage@1238a44a]
+__CARD PLAYED__ | @ 2020-07-09T22:33:34.318803 | Message: Fireball
+__REPORT__ | @ 2020-07-09T22:33:35.319195 | Message: Input: P2Hero, Index: -1
+__REPORT__ | @ 2020-07-09T22:33:36.319741 | Message: Input: P1Hero, Index: -1
+__ATTACK__ | @ 2020-07-09T22:33:36.320136 | Message: Mage Attacked -> Mage
+__GAME REPORT__ | @ 2020-07-09T22:33:37.320378 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-07-09T22:33:37.320728 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:37.326510 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:33:45.821196 | Message: Clicked On Point: java.awt.Point[x=620,y=774], other
+__REPORT__ | @ 2020-07-09T22:33:45.821308 | Message: Input: other, Index: -1
+__REPORT__ | @ 2020-07-09T22:33:46.205754 | Message: Clicked On Point: java.awt.Point[x=474,y=59], P1Hand
+__REPORT__ | @ 2020-07-09T22:33:46.205992 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:33:46.920237 | Message: Selected -> models.cards.Minion@3e84976f
+__REPORT__ | @ 2020-07-09T22:33:46.921181 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:33:47.549820 | Message: Clicked On Point: java.awt.Point[x=798,y=68], P1Board
+__REPORT__ | @ 2020-07-09T22:33:47.550193 | Message: Input: P1Board, Index: 4
+__CARD PLAYED__ | @ 2020-07-09T22:33:47.550500 | Message: Ironfur Grizzly
+__GAME REPORT__ | @ 2020-07-09T22:33:51.844970 | Message: Draw Card -> Polymorph
+__GAME REPORT__ | @ 2020-07-09T22:33:51.845157 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:51.845861 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:33:52.846118 | Message: Input: P2Hand, Index: 0
+__REPORT__ | @ 2020-07-09T22:33:53.846633 | Message: Input: P2Board, Index: 0
+__EFFECTS VISITED__ | @ 2020-07-09T22:33:53.847122 | Message: Effect: logic.GameEffects.ChangeHpAttack@2cdbf8, on Models: []
+__CARD PLAYED__ | @ 2020-07-09T22:33:53.847296 | Message: RaidLeader
+__REPORT__ | @ 2020-07-09T22:33:53.850756 | Message: Input: P2Board, Index: 1
+__REPORT__ | @ 2020-07-09T22:33:53.851597 | Message: Input: P2Board, Index: 2
+__REPORT__ | @ 2020-07-09T22:33:53.852415 | Message: Input: P2Board, Index: 3
+__REPORT__ | @ 2020-07-09T22:33:53.853326 | Message: Input: P2Board, Index: 4
+__REPORT__ | @ 2020-07-09T22:33:53.854457 | Message: Input: P2Board, Index: 5
+__REPORT__ | @ 2020-07-09T22:33:53.855265 | Message: Input: P2Board, Index: 6
+__REPORT__ | @ 2020-07-09T22:33:54.846821 | Message: Input: P2Hero, Index: -1
+__REPORT__ | @ 2020-07-09T22:33:57.847676 | Message: Input: P1Board, Index: 4
+__ATTACK__ | @ 2020-07-09T22:33:57.848177 | Message: Mage Attacked -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-07-09T22:33:58.848330 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-07-09T22:33:58.848841 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:33:58.857380 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:34:07.242155 | Message: Clicked On Point: java.awt.Point[x=513,y=55], P1Hand
+__REPORT__ | @ 2020-07-09T22:34:07.242497 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:34:08.283282 | Message: Selected -> models.cards.Spell@6b5dc47f
+__REPORT__ | @ 2020-07-09T22:34:08.283515 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:34:09.638670 | Message: Clicked On Point: java.awt.Point[x=102,y=77], P2Board
+__REPORT__ | @ 2020-07-09T22:34:09.638852 | Message: Input: P2Board, Index: 0
+__CARD SELECTED__ | @ 2020-07-09T22:34:09.639029 | Message: Model Selected -> RaidLeader
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:09.639145 | Message: Effect: logic.GameEffects.Transform@15935464, on Models: [models.cards.Minion@54694bf4]
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:09.639258 | Message: Effect: logic.GameEffects.ChangeHpAttack@37f26b03, on Models: [models.cards.Minion@54694bf4]
+__CARD PLAYED__ | @ 2020-07-09T22:34:09.639387 | Message: Polymorph
+__REPORT__ | @ 2020-07-09T22:34:10.762164 | Message: Clicked On Point: java.awt.Point[x=748,y=73], P1Board
+__REPORT__ | @ 2020-07-09T22:34:10.762378 | Message: Input: P1Board, Index: 4
+__REPORT__ | @ 2020-07-09T22:34:12.130040 | Message: Clicked On Point: java.awt.Point[x=120,y=104], P2Hero
+__REPORT__ | @ 2020-07-09T22:34:12.130251 | Message: Input: P2Hero, Index: -1
+__ATTACK__ | @ 2020-07-09T22:34:12.130461 | Message: Ironfur Grizzly Attacked -> Mage
+__REPORT__ | @ 2020-07-09T22:34:13.090025 | Message: Clicked On Point: java.awt.Point[x=99,y=94], P1HeroPower
+__REPORT__ | @ 2020-07-09T22:34:13.090291 | Message: Input: P1HeroPower, Index: -1
+__REPORT__ | @ 2020-07-09T22:34:13.894164 | Message: Clicked On Point: java.awt.Point[x=86,y=94], P2Board
+__REPORT__ | @ 2020-07-09T22:34:13.894401 | Message: Input: P2Board, Index: 0
+__CARD SELECTED__ | @ 2020-07-09T22:34:13.894621 | Message: Model Selected -> Sheep
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:13.894884 | Message: Effect: logic.GameEffects.ChangeHpAttack@74f4a2f0, on Models: [models.cards.Minion@7a33521e]
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:13.895174 | Message: Effect: logic.GameEffects.DefenseAdder@7e0cc980
+__GAME REPORT__ | @ 2020-07-09T22:34:14.773336 | Message: Draw Card -> Polymorph
+__GAME REPORT__ | @ 2020-07-09T22:34:14.773611 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:34:14.774691 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:34:15.774501 | Message: Input: P2Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:34:16.774635 | Message: Input: P1Board, Index: 4
+__CARD SELECTED__ | @ 2020-07-09T22:34:16.774869 | Message: Model Selected -> Ironfur Grizzly
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:16.774955 | Message: Effect: logic.GameEffects.Transform@ac3ed06, on Models: [models.cards.Minion@3e84976f]
+__CARD PLAYED__ | @ 2020-07-09T22:34:16.775072 | Message: Polymorph
+__REPORT__ | @ 2020-07-09T22:34:17.775429 | Message: Input: P2Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:34:18.775590 | Message: Input: P1Board, Index: 4
+__CARD SELECTED__ | @ 2020-07-09T22:34:18.775762 | Message: Model Selected -> Sheep
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:18.775890 | Message: Effect: logic.GameEffects.Transform@170f9268, on Models: [models.cards.Minion@13301451]
+__CARD PLAYED__ | @ 2020-07-09T22:34:18.776090 | Message: Polymorph
+__REPORT__ | @ 2020-07-09T22:34:19.776249 | Message: Input: P2Hero, Index: -1
+__REPORT__ | @ 2020-07-09T22:34:20.776805 | Message: Input: P1Hero, Index: -1
+__ATTACK__ | @ 2020-07-09T22:34:20.777071 | Message: Mage Attacked -> Mage
+__GAME REPORT__ | @ 2020-07-09T22:34:21.777611 | Message: Draw Card -> Polymorph
+__GAME REPORT__ | @ 2020-07-09T22:34:21.778062 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:34:21.783363 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:34:25.561530 | Message: Clicked On Point: java.awt.Point[x=801,y=76], P1Board
+__REPORT__ | @ 2020-07-09T22:34:25.561701 | Message: Input: P1Board, Index: 4
+__REPORT__ | @ 2020-07-09T22:34:26.030380 | Message: Clicked On Point: java.awt.Point[x=116,y=76], P2Hero
+__REPORT__ | @ 2020-07-09T22:34:26.030603 | Message: Input: P2Hero, Index: -1
+__ATTACK__ | @ 2020-07-09T22:34:26.030752 | Message: Sheep Attacked -> Mage
+__REPORT__ | @ 2020-07-09T22:34:26.750394 | Message: Clicked On Point: java.awt.Point[x=61,y=12], P1HeroPower
+__REPORT__ | @ 2020-07-09T22:34:26.750614 | Message: Input: P1HeroPower, Index: -1
+__REPORT__ | @ 2020-07-09T22:34:27.374280 | Message: Clicked On Point: java.awt.Point[x=87,y=79], P2Hero
+__REPORT__ | @ 2020-07-09T22:34:27.374526 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:34:27.374774 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:27.375093 | Message: Effect: logic.GameEffects.ChangeHpAttack@74f4a2f0, on Models: [models.heroes.Mage@1238a44a]
+__GAME REPORT__ | @ 2020-07-09T22:34:28.077709 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-07-09T22:34:28.078109 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:34:28.080070 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:34:29.078984 | Message: Input: P2HeroPower, Index: -1
+__REPORT__ | @ 2020-07-09T22:34:30.079519 | Message: Input: P1Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:34:30.079850 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:30.080120 | Message: Effect: logic.GameEffects.ChangeHpAttack@4035660a, on Models: [models.heroes.Mage@4ef2807c]
+__REPORT__ | @ 2020-07-09T22:34:31.080090 | Message: Input: P2Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:34:32.080608 | Message: Input: P2Board, Index: 0
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:32.080996 | Message: Effect: logic.GameEffects.AddCost@1a25e425, on Models: []
+__CARD PLAYED__ | @ 2020-07-09T22:34:32.081137 | Message: Sorcerer's Apprentice
+__REPORT__ | @ 2020-07-09T22:34:32.084250 | Message: Input: P2Board, Index: 1
+__REPORT__ | @ 2020-07-09T22:34:32.085098 | Message: Input: P2Board, Index: 2
+__REPORT__ | @ 2020-07-09T22:34:32.085844 | Message: Input: P2Board, Index: 3
+__REPORT__ | @ 2020-07-09T22:34:32.086664 | Message: Input: P2Board, Index: 4
+__REPORT__ | @ 2020-07-09T22:34:32.087521 | Message: Input: P2Board, Index: 5
+__REPORT__ | @ 2020-07-09T22:34:32.088191 | Message: Input: P2Board, Index: 6
+__REPORT__ | @ 2020-07-09T22:34:33.080600 | Message: Input: P2Hero, Index: -1
+__REPORT__ | @ 2020-07-09T22:34:36.081512 | Message: Input: P1Hero, Index: -1
+__ATTACK__ | @ 2020-07-09T22:34:36.081786 | Message: Mage Attacked -> Mage
+__GAME REPORT__ | @ 2020-07-09T22:34:37.082061 | Message: Draw Card -> Fireball
+__GAME REPORT__ | @ 2020-07-09T22:34:37.082483 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:34:37.085137 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:34:43.622488 | Message: Clicked On Point: java.awt.Point[x=442,y=46], P1Hand
+__REPORT__ | @ 2020-07-09T22:34:43.622670 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:34:46.193655 | Message: Selected -> models.cards.Spell@6723be1f
+__REPORT__ | @ 2020-07-09T22:34:46.193741 | Message: Input: P1Hand, Index: 4
+__REPORT__ | @ 2020-07-09T22:34:47.016728 | Message: Clicked On Point: java.awt.Point[x=81,y=76], P2Hero
+__REPORT__ | @ 2020-07-09T22:34:47.016848 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:34:47.016978 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:47.017058 | Message: Effect: logic.GameEffects.ChangeHpAttack@34a68e34, on Models: [models.heroes.Mage@1238a44a]
+__CARD PLAYED__ | @ 2020-07-09T22:34:47.017109 | Message: Fireball
+__REPORT__ | @ 2020-07-09T22:34:47.798724 | Message: Clicked On Point: java.awt.Point[x=760,y=69], P1Board
+__REPORT__ | @ 2020-07-09T22:34:47.798980 | Message: Input: P1Board, Index: 4
+__REPORT__ | @ 2020-07-09T22:34:48.902711 | Message: Clicked On Point: java.awt.Point[x=86,y=89], P2Board
+__REPORT__ | @ 2020-07-09T22:34:48.902943 | Message: Input: P2Board, Index: 0
+__ATTACK__ | @ 2020-07-09T22:34:48.903143 | Message: Sheep Attacked -> Sorcerer's Apprentice
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:48.903284 | Message: Effect: logic.GameEffects.DefenseAdder@7e0cc980
+__REPORT__ | @ 2020-07-09T22:34:49.990506 | Message: Clicked On Point: java.awt.Point[x=401,y=83], P1Hand
+__REPORT__ | @ 2020-07-09T22:34:49.990694 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:34:51.076285 | Message: Selected -> models.cards.Spell@6458256b
+__REPORT__ | @ 2020-07-09T22:34:51.076565 | Message: Input: P1Hand, Index: 0
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:51.076849 | Message: Effect: logic.GameEffects.ChangeHpAttack@39dc1b12, on Models: [models.cards.Minion@2328ff1c]
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:51.077262 | Message: Effect: logic.GameEffects.AddToHand@1fce7f2c, on Models: [models.cards.Spell@37b49727]
+__CARD PLAYED__ | @ 2020-07-09T22:34:51.077942 | Message: Blast Wave
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:51.078160 | Message: Effect: logic.GameEffects.DefenseAdder@7e0cc980
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:51.078465 | Message: Effect: logic.GameEffects.AddCost@6899f136, on Models: []
+__GAME REPORT__ | @ 2020-07-09T22:34:54.918288 | Message: Draw Card -> Blast Wave
+__GAME REPORT__ | @ 2020-07-09T22:34:54.918615 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:34:54.920569 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:34:55.919528 | Message: Input: P2Hand, Index: 1
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:55.919828 | Message: Effect: logic.GameEffects.ChangeHpAttack@6f087163, on Models: []
+__CARD PLAYED__ | @ 2020-07-09T22:34:55.919963 | Message: Blast Wave
+__REPORT__ | @ 2020-07-09T22:34:56.919558 | Message: Input: P2HeroPower, Index: -1
+__REPORT__ | @ 2020-07-09T22:34:57.920200 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:34:57.920572 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:34:57.920787 | Message: Effect: logic.GameEffects.ChangeHpAttack@4035660a, on Models: [models.heroes.Mage@1238a44a]
+__GAME REPORT__ | @ 2020-07-09T22:34:58.920884 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-07-09T22:34:58.921264 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:34:58.927603 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:35:04.510993 | Message: Clicked On Point: java.awt.Point[x=84,y=71], P1HeroPower
+__REPORT__ | @ 2020-07-09T22:35:04.511197 | Message: Input: P1HeroPower, Index: -1
+__REPORT__ | @ 2020-07-09T22:35:05.251081 | Message: Clicked On Point: java.awt.Point[x=99,y=127], P2Hero
+__REPORT__ | @ 2020-07-09T22:35:05.251280 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:35:05.251535 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:35:05.251779 | Message: Effect: logic.GameEffects.ChangeHpAttack@74f4a2f0, on Models: [models.heroes.Mage@1238a44a]
+__REPORT__ | @ 2020-07-09T22:35:06.003018 | Message: Clicked On Point: java.awt.Point[x=473,y=64], P1Hand
+__REPORT__ | @ 2020-07-09T22:35:06.003212 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:35:07.446604 | Message: Selected -> models.cards.Spell@5ef22d84
+__REPORT__ | @ 2020-07-09T22:35:07.446716 | Message: Input: P1Hand, Index: 1
+__ERROR__ | @ 2020-07-09T22:35:08.639601 | Message: Not enough mana
+__GAME REPORT__ | @ 2020-07-09T22:35:09.174709 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-07-09T22:35:09.175199 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:35:09.176621 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:35:10.176142 | Message: Input: P2HeroPower, Index: -1
+__REPORT__ | @ 2020-07-09T22:35:11.176596 | Message: Input: P1Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:35:11.177022 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:35:11.177251 | Message: Effect: logic.GameEffects.ChangeHpAttack@4035660a, on Models: [models.heroes.Mage@4ef2807c]
+__REPORT__ | @ 2020-07-09T22:35:12.177236 | Message: Input: P2Hand, Index: 1
+__CARD PLAYED__ | @ 2020-07-09T22:35:12.177472 | Message: Light's Justice
+__GAME REPORT__ | @ 2020-07-09T22:35:13.177315 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-07-09T22:35:13.177462 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-07-09T22:35:13.195451 | Message: Turn Ended.
+__REPORT__ | @ 2020-07-09T22:35:18.382972 | Message: Clicked On Point: java.awt.Point[x=509,y=51], P1Hand
+__REPORT__ | @ 2020-07-09T22:35:18.383174 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-07-09T22:35:19.321875 | Message: Selected -> models.cards.Spell@5ef22d84
+__REPORT__ | @ 2020-07-09T22:35:19.322131 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-07-09T22:35:22.091343 | Message: Clicked On Point: java.awt.Point[x=109,y=91], P2Hero
+__REPORT__ | @ 2020-07-09T22:35:22.091521 | Message: Input: P2Hero, Index: -1
+__CARD SELECTED__ | @ 2020-07-09T22:35:22.091810 | Message: Model Selected -> Mage
+__EFFECTS VISITED__ | @ 2020-07-09T22:35:22.092042 | Message: Effect: logic.GameEffects.ChangeHpAttack@d624134, on Models: [models.heroes.Mage@1238a44a]
+__GAME REPORT__ | @ 2020-07-09T22:35:22.092270 | Message: 
+__CARD PLAYED__ | @ 2020-07-09T22:35:22.092364 | Message: Pyroblast
+__GAME REPORT__ | @ 2020-07-09T22:35:22.092466 | Message: 
+__GAME REPORT__ | @ 2020-07-09T22:35:27.530279 | Message: (Quit-Interrupt)
+__BUTTON CLICK__ | @ 2020-07-09T22:35:27.530439 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-07-09T22:35:27.592603 | Message: home
+__BUTTON CLICK__ | @ 2020-07-09T22:35:29.621279 | Message: button -> Sign Out
+__ROOM CHANGE__ | @ 2020-07-09T22:35:29.672492 | Message: Login
+__SIGN OUT__ | @ 2020-07-09T22:35:29.672882 | Message: No Message
+__SIGN IN__ | @ 2020-07-09T22:36:13.895203 | Message: No Message
+__ROOM CHANGE__ | @ 2020-07-09T22:36:14.503790 | Message: Home
+__BUTTON CLICK__ | @ 2020-07-09T22:36:15.166191 | Message: button -> Delete Account

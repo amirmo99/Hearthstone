@@ -1,0 +1,55 @@
+Username: player2
+Created @ 2020-07-09T16:40:19.640918
+Password:  1234
+
+
+__SIGN IN__ | @ 2020-07-09T16:40:19.665353 | Message: No Message
+__ROOM CHANGE__ | @ 2020-07-09T16:40:19.736575 | Message: Home
+__BUTTON CLICK__ | @ 2020-07-09T16:40:20.697368 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-07-09T16:40:20.800018 | Message: Collections
+__BUTTON CLICK__ | @ 2020-07-09T16:40:22.393045 | Message: New
+__REPORT__ | @ 2020-07-09T16:40:24.680983 | Message: Deck Name: New Deck0, hero : Mage
+__BUTTON CLICK__ | @ 2020-07-09T16:40:27.087379 | Message: Set Active
+__REPORT__ | @ 2020-07-09T16:40:27.087751 | Message: Deck Activated -> Deck name : New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:28.943210 | Message: Select
+__BUTTON CLICK__ | @ 2020-07-09T16:40:28.943606 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:29.685266 | Message: Add to deck button -> Sorcerer's Apprentice
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:29.685442 | Message: Card Sorcerer's Apprentice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:29.875346 | Message: Add to deck button -> Sorcerer's Apprentice
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:29.875655 | Message: Card Sorcerer's Apprentice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:30.147249 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:30.147505 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:30.307393 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:30.307673 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:30.563590 | Message: Add to deck button -> Hir'eek the Bat
+__ERROR__ | @ 2020-07-09T16:40:31.947837 | Message: Message : You Can't Have More Than 2 Cards of This Same Cards
+__BUTTON CLICK__ | @ 2020-07-09T16:40:32.759195 | Message: Add to deck button -> Light's Justice
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:32.759459 | Message: Card Light's Justice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:32.919335 | Message: Add to deck button -> Light's Justice
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:32.919633 | Message: Card Light's Justice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:33.175288 | Message: Add to deck button -> Crazed Chemist
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:33.175547 | Message: Card Crazed Chemist added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:33.350916 | Message: Add to deck button -> Crazed Chemist
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:33.351042 | Message: Card Crazed Chemist added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:34.423005 | Message: Add to deck button -> RaidLeader
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:34.423170 | Message: Card RaidLeader added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:34.695287 | Message: Add to deck button -> RaidLeader
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:34.695637 | Message: Card RaidLeader added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:35.467203 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:35.467546 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:35.595316 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:35.595545 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:37.611236 | Message: Add to deck button -> Polymorph
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:37.611550 | Message: Card Polymorph added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:37.755134 | Message: Add to deck button -> Polymorph
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:37.755411 | Message: Card Polymorph added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:38.495196 | Message: Add to deck button -> Blast Wave
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:38.495471 | Message: Card Blast Wave added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:38.639228 | Message: Add to deck button -> Blast Wave
+__SUCCESSFUL ACTION__ | @ 2020-07-09T16:40:38.639501 | Message: Card Blast Wave added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-07-09T16:40:39.247175 | Message: Back
+__BUTTON CLICK__ | @ 2020-07-09T16:40:39.937783 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-07-09T16:40:39.993315 | Message: home
+__BUTTON CLICK__ | @ 2020-07-09T16:40:40.755640 | Message: button -> Sign Out
+__ROOM CHANGE__ | @ 2020-07-09T16:40:40.811414 | Message: Login
+__SIGN OUT__ | @ 2020-07-09T16:40:40.811833 | Message: No Message
